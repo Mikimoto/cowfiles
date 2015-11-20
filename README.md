@@ -17,8 +17,15 @@ git clone https://github.com/bkendzior/cowfiles.git $HOME/.cowsay
 
 Now, add the new folder to your $COWPATH environment variable. Append this line to your shell's configuration file (.bashrc, .zshrc, .cshrc).
 
+*Plese note, if your $COWPATH default is null, remove it form your setting.*
+
 ``` bash
 COWPATH="$COWPATH:$HOME/.cowsay"
+```
+or
+
+``` bash
+COWPATH="$HOME/.cowsay"
 ```
 
 ####cowsayfortune
