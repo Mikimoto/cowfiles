@@ -28,7 +28,7 @@ or
 COWPATH="$HOME/.cowsay"
 ```
 
-####cowsayfortune
+####cowsayquote
 
 If you have [QOTD](https://en.wikipedia.org/wiki/QOTD) installed, here is a simple bash function that you can place in your shell's appropriate dotfile (bashrc, zshrc, cshrc) that will give you a useful quip from a funky cow.
 
