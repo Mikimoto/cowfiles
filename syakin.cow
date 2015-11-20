@@ -1,0 +1,15 @@
+#
+# 2ch picture
+# Transformed into cowfile by Mikimoto
+#
+$the_cow = <<EOC;
+　||
+　||
+　||
+　||
+　||
+　||　 　　　　　　　　　　　　　　　　　　　　　∧＿∧
+　|| 　　　　　　　　　　　　　　　　　　　＼　(｀･ω･´)
+　||　　　　　　　　　　　　　　　　　　　　　　⊂⊂　　|
+　||＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿　　　　　 |￣￣￣￣|
+EOC

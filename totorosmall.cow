@@ -1,0 +1,31 @@
+#
+# Ghibli picture
+# Transformed into cowfile by Mikimoto
+#
+$the_cow = <<EOC;
+                                   .
+                                 ',.l.              ,,
+                                ;.   d            .l  o
+                               .:    o.           o   l.
+                               k     ,c          c.   .l
+                              .o     ;o         .c     k
+                               l     l....'...  ;'    .x
+                              'x             ...;    'l
+                         .   :;.;,';.               .O
+                         ..ld :;'d: o'   .     .;;;l';o
+                         .cl  l'.o, d,  .l:   ;c :xcd:.o
+            .            ;:    ';;;c.         ;o :o;:: O;...
+           l.l.         l;                     .,,':.  'O..
+  c,;.    c.  o        l.       .'''',,:;..             .c
+  l  .:.  o    o      :.    ','..        ..;co.          k
+  :.   o'''    ;,     x   :..                 'c''       l,
+   d .,';   ;;dcN;   'c  ,x .:;;:  ::;:o    ..  :;       ,o.;,
+   o.o';'c  ,;c;,l.  'd .d  0:,,o cl;;lX; oOoOX'K        .x  cc
+   c .,''         o   ';'                       K.       .d   O
+  c.              .;   k                         OKKxl       'x
+  c.              .c   ;;                           '.      'x
+  .c              :.    ':                          l,     :l
+   :,            ':       ;,.                      ,0. .',:
+    .'.:,''''''ckl          ,d;;'.              ';dd:,..
+       .                      , ';....''''''''d;'0,,.
+EOC

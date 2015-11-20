@@ -1,0 +1,34 @@
+#
+# Ghibli picture
+# Transformed into cowfile by Mikimoto
+#
+$the_cow = <<EOC;
+                                             ..........
+                               .';:ldxO0KXXNWWMMMMMMMMWWNXXK0kxdl:;'.
+                       .':llcoNMMMMMMMMMMMMMXOWMMMMMMMMM0KMMMMMMMMMMMW0ccl:'.
+                  .;okkxc,..,XMMMMMMMMMMMMMK..lMMMMMMMMl..WMMMMMMMMMMMMc..,lxkko;.
+              .:xK0d;......'NMMMMMMMMMMMMMMd...XMMMMMMO...WMMMMMMMMMMMMX.......:d0Kx:.
+           ,dKKx:..........OMMMMMMMMMMMMMMMk...OK0OO0Xc..xMMMMMMMMMMMMMM:..........:d00d,
+        .dXNd,.............KMMMMMMMMMMMMMMMN,...........,NMMMMMMMMMMMMMMo..............l0Xd.
+      ;OW0:................:NMMMMMMMMMMMMNl.cc,.......'cl'OMMWMMMMMMMMMM:................'oKO;
+    ,0MO,...................'OMMMMMWNXK0x...dl:.......,od..dKXNNMMMMMMXc....................cXK,
+   dWX;.......................'dXMMWXOl.....................,lOXWWXOd;........................xWd
+ .OWd.............................'............',,,;,'.........................................cWO.
+ kWc......................................,oOXWMMNXWMMMXOl......................................:Wk
+;Mo.....................................;OOdxXMNdodxWMXkxkNO;....................................dM;
+dM,....................................dW0KMMW0ONMMOodXMMNKWMx....................................Wd
+dM,...................................xWxokWMKKKKMWXWWNMWkxdWMx...................................Wd
+;Md..................................:MWWMMMMMMMMMMMMMMMMMMMMMN..................................cM;
+ xW;.................................kMMMMMMMMMMMMMMMMMMMMMMMMW.................................'Nx
+  kN;................................KMMMMMMMMMMMMMMMMMMMMMMMMN................................'Xk
+   oNl..............cxOOOOkdc'.......XMMMMMMMMMMMMMMMMMMMMMMMMO,;......;ok0K0kd;..............cXo
+    'OO,...........xMMMMMMMMMMKo..xNKWMMMMMMMMMMMMMMMMMMMMMMMMXNMO..:kNMMMMMMMMMk...........'kO'
+      ,kk:.........OMMMMMMMMMMMMNXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNXMMMMMMMMMMMMN.........;xk,
+        .o0x:......cMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMx......,oko.
+           'lOOdc'..dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMx...;lxxl'
+              .;dKNKkNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKxOK0d;.
+                  .,lkKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkl,.
+                        .;ldOKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKOdl;.
+                                .';codxO0KKXNNWWWWWWWWNNXKK0Oxdoc;'.
+                                               ......
+EOC
