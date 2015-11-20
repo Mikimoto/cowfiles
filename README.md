@@ -12,7 +12,7 @@ Next, you need to place the cowfiles somewhere that cowsay can locate them. I re
 
 ```
 mkdir $HOME/.cowsay
-git clone https://github.com/bkendzior/cowfiles.git $HOME/.cowsay
+git clone https://github.com/Mikimoto/cowfiles.git $HOME/.cowsay
 ```
 
 Now, add the new folder to your $COWPATH environment variable. Append this line to your shell's configuration file (.bashrc, .zshrc, .cshrc).
