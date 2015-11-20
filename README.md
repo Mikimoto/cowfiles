@@ -23,18 +23,18 @@ COWPATH="$COWPATH:$HOME/.cowsay"
 
 ####cowsayfortune
 
-If you have [fortune](http://en.wikipedia.org/wiki/Fortune_(Unix)) installed, here is a simple bash function that you can place in your shell's appropriate dotfile (bashrc, zshrc, cshrc) that will give you a useful quip from a funky cow.
+If you have [QOTD](https://en.wikipedia.org/wiki/QOTD) installed, here is a simple bash function that you can place in your shell's appropriate dotfile (bashrc, zshrc, cshrc) that will give you a useful quip from a funky cow.
 
 ``` bash
 # Cow-spoken fortunes every time you open a terminal
-function cowsayfortune {
+function cowsayquote {
   NUMOFCOWS=`cowsay -l | tail -n +2 | wc -w`
   WHICHCOW=$((RANDOM%$NUMOFCOWS+1))
   THISCOW=`cowsay -l | tail -n +2 | sed -e 's/\ /\'$'\n/g' | sed $WHICHCOW'q;d'`
 
    #echo "Selected cow: ${THISCOW}, from ${WHICHCOW}"
-   fortune | cowsay -f $THISCOW -W 100
+   quote | cowsay -f $THISCOW -W 100
 }
 
-cowsayfortune
+cowsayquote
 ```
