@@ -1,0 +1,13 @@
+#
+# Horse picture
+# Transformed into cowfile by Mikimoto
+#
+$the_cow = <<EOC;
+
+          得罪了方丈還想跑!?   ●        沒這麼容易~~!!!!
+                              ╞╡
+                 ●╱  ╲●  _●  《●》 ●_  ●╱  ╲●
+                ˇ﹨   ╳ ＼█‵   █  ′█／ ╳    ∕ˇ
+                 ╱<  ﹤╲  /   / \\  \\   ╱﹥  >╲
+
+EOC

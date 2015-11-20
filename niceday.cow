@@ -1,0 +1,10 @@
+#
+# PTT picture
+# Transformed into cowfile by Mikimoto
+#
+$the_cow = <<EOC;
+
+     ("\\ /")  ∩~∩
+   ♂ ( '.' )(~'.'~) ♀
+ ° o~(__)__)(__(__)~o°......Have A Nice Day!
+EOC

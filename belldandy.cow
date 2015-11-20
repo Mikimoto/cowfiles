@@ -1,0 +1,31 @@
+#
+# Horse picture
+# Transformed into cowfile by Mikimoto
+#
+$the_cow = <<EOC;
+
+?!!(.  .:<!HMR?!(` :!!~   :!!!!!` .\\xMMMMMMMM)<MMM>4'h.!!!!'`!!!!!h.4?.^$X!::.
+:/!(h!!!!!?!!)r"  <X   :<!!!~`:x <zMMMMMMM"zJMMMML< MM.'!!!h `!!!!%'!! ("X?:!!
+.:!!!!!!!! J*   :!~ :<!!!~ :nMP zRMMMMMMMPzHMMMMM> 4MMML'4!!!: `!!X>X?L~-?4!:`
+`!!!!!~`   .>~ :!~:!!!\\-.nH9MM zMMMMMMMMC.*MMMMMM> 4MMMMx `!!!!  '!R4N\$-/. /!!
+ !!!`   :-`   :!\\<!\\:~.dM9N\$9FdMMMMMMMMM)n4MMMMM>/.N8MMMh-'4!!tL  ^4\$\$ \$K%u'`
+~' ..>~`     :X:!(:~..``???M# MMMMMMMMMM(dMMMMMMJ.\$\$MMMMMMx'x!!9\$k   X?>*\$bJk:
+::/~`    .:! X~:!!x MM88bs((> <?MMMMMMM\\C9MMMMMMJ/\$\$\$BMMMMk'L"\$\$\$k :?!>@\$\$\$L`
+`     .:!!!`:f:!\\r" RM#P\$\$\$NL4nx.)MMMM4 dMMMMMM~\\\$\$\$\$\$MMMMMh#b/\$R!% !!>'\$B?#L
+   .:!!!`   ! " 4L> =- ^=R\$P#4MMMMMMMM'zMMMMMMM\\ @\$\$\$\$\$\$MMMMM:"%("!!4!!  '*!!!
+.:!!!~    :<!    M' tMc  '""""!^MMMMMMdMMMMMMM\\ \@RR\$\$\$\$\$MMMMMM:!!:!f/!!    !!!
+!!!~     z!'f    `x./*hHn..:xnnHMMMMMMMMMMMMMMr:.:-<h???#\$MMMMMH'!!> !!f     !!
+~`      @! '>     " LdMMMMMMMMMMMMMMMMMMMMMMM!z9?4MtoX(`!:?*MMMM `!X !~ h    '!
+      .@~   ~...>   RMMMMMMMMMMMMMMMMMMMMMMP)MM('-4dM\$M\$Mnx(>"MML `><  :?k    '
+     :?f:xdh'4*)/'% )MMMMMMMMMMMMMMMMMMMMMMMMMMMh. "#RTCCC3MMHx?M.     !!9r
+    :!~JMMMM,        MMMMMMMMMMMMMMMf4MMMMMMMMMMMMc..   `  "**MMf '  .<!!!\$r
+   :!\\d88NP"         'MMMMMMMMMMMMMf JMMMMMMMMMMMMMMMhKMM>-**!M" /   !?r!!9h
+ /.X\\\$\$\$\$\$          th/9MMMMMMMMPMMndMMMMMMMMMMMMMMMMMMMM4M9!-..n   '!!h%!!Rr
+xL/fx\$\$\$\$"       :  )( "9MMMMMMMC"MMMMMMMMMMMMMMMMMMMMMMM/M!~ !~f    !!!)!!t&
+F/!z\$\$\$\$"       dMxMMM!.J4MMMMMMMMHnnHnnMMMMMMMMMMMMMMMMMP-:~ `X     X!! !!9\$
+<!\\\$\$\$\$\$       H9"xn:. dMu?MMMMMMMMMMMMMMMMMMMMMMMMMMMM""n9  dM".d   4!!L!!?Rr
+!\\\$\$\$\$\$F      zMM'*f!! M8\$\$K?MMMMMMMMMMMMMMMMMMMMMMM!".nMMf dM .M~   '!!X'!!\$L'
+~/5\$\$\$\$      :R8\\dMMh>4N\$\$\$\$\$c"4MMMMMMMMMMMMM**!()x-)HMMMMk  . :f   r ?!? !!9\$
+.Lc#\$\$F      d\$\$-)X)( H\$\$\$\$\$\$\$ x(???t(CCCXxnnHMM*?nMMMMMP*(nHP `   !  )!!>!!9\$
+
+EOC

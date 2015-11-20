@@ -1,0 +1,12 @@
+#
+# PTT picture
+# Transformed into cowfile by Mikimoto
+#
+$the_cow = <<EOC;
+
+你在幹麻?           我在鋪梗阿
+ ○                        　 更
+/■\\                       ○/
+ /\\                    ╴/▔\\
+□□□□木更木更木更木更木更木  □□□□
+EOC

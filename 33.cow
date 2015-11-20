@@ -1,0 +1,13 @@
+#
+# PTT picture
+# Transformed into cowfile by Mikimoto
+#
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+　　　_, ._
+　 （　ﾟ3ﾟ．;.o：。｡･ﾟ･;::..;:::
+　　( つ旦O
+　　と＿)_)
+
+EOC

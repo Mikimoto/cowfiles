@@ -1,0 +1,29 @@
+#
+# Octocat picture
+# Transformed into cowfile by Mikimoto
+#
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+           MMM.           .MMM
+           MMMMMMMMMMMMMMMMMMM
+           MMMMMMMMMMMMMMMMMMM      _________
+          MMMMMMMMMMMMMMMMMMMMM    |         |
+         MMMMMMMMMMMMMMMMMMMMMMM   |         |
+        MMMMMMMMMMMMMMMMMMMMMMMM   |_   _____|
+        MMMM::- -:::::::- -::MMMM    |/
+         MM~:~ 00~:::::~ 00~:~MM
+    .. MMMMM::.00:::+:::.00::MMMMM ..
+          .MM::::: ._. :::::MM.
+             MMMM;:::::;MMMM
+      -MM        MMMMMMM
+      ^  M+     MMMMMMMMM
+          MMMMMMM MM MM MM
+               MM MM MM MM
+               MM MM MM MM
+            .~~MM~MM~MM~MM~~.
+         ~~~~MM:~MM~~~MM~:MM~~~~
+        ~~~~~~==~==~~~==~==~~~~~~
+         ~~~~~~==~==~==~==~~~~~~
+             :~==~==~==~==~~
+EOC
